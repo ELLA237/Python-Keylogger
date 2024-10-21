@@ -1,2 +1,2 @@
 # Python-Keylogger
-The ail of this project is to code a python keylogger.
+The aim of this project is to code a python keylogger.
